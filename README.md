@@ -1,2 +1,0 @@
-# iamalexander-blog
-My blog
